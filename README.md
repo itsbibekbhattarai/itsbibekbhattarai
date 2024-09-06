@@ -1,6 +1,6 @@
 # Hello, I'm Bibek 👋
+I’m a web developer specializing in building responsive and dynamic web applications.<br>
 [![](https://visitcount.itsvg.in/api?id=itsbibekbhattarai&icon=5&color=1)](https://visitcount.itsvg.in)
-I’m a web developer specializing in building responsive and dynamic web applications.
 # 💫 About Me:
 🔭 I’m currently working on bytencoder as a web developer<br>🌱 I’m currently learning advance javascript<br>📫 Reach me at : bibekbhattarai790@gmail.com
 
