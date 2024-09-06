@@ -11,7 +11,7 @@ I’m a web developer specializing in building responsive and dynamic web applic
 
 ## 📚 Learning Goals
 
-- **Livewire**: To enhance my skills in Laravel and Alpine.js integration.
+![Livewire](https://img.shields.io/badge/livewire-%2338B2AC.svg?style=flat&logo=livewire-css&logoColor=white) 
   
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bibekbhattarai18_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27095465) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BibekBhatt5464) 
